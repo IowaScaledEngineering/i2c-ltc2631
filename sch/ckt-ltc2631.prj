@@ -1,0 +1,4 @@
+schematics ckt-ltc2631.sch
+output-name ../pcb/ckt-ltc2631
+skip-m4
+elements-dir ../../footprints
